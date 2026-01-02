@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Butter – Home</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <a href="#" class="logo">
+            <img src="images/logo.png" alt="Business Butter Logo">
+        </a>
+        <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <button class="hamburger" aria-label="Menu">
+            <span></span><span></span><span></span>
+        </button>
+    </nav>
+</header>
+
+<main>
+    <section id="hero" class="hero">
+        <h1>Elevate Your Business with Business Butter</h1>
+        <p>Strategic guidance, fractional CFO power, and project mastery—one team, unlimited impact.</p>
+        <a href="#services" class="btn">Explore Services</a>
+    </section>
+
+    <section id="about" class="section about">
+        <h2>About Us</h2>
+        <p>
+            Business Butter is a boutique advisory firm that blends deep industry insight with hands‑on financial and project expertise.
+            We help founders, C‑suite, and growth teams accelerate their vision and achieve measurable results.
+        </p>
+    </section>
+
+    <section id="services" class="section services">
+        <h2>Our Services</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>Business Counseling</h3>
+                <p>Personalized coaching and strategy sessions to clarify goals, overcome obstacles, and build a sustainable roadmap.</p>
+            </div>
+            <div class="card">
+                <h3>Strategic Advising</h3>
+                <p>Data‑driven market analysis, competitive positioning, and tactical recommendations that drive growth.</p>
+            </div>
+            <div class="card">
+                <h3>Fractional CFO</h3>
+                <p>High‑level financial oversight, budgeting, forecasting, and capital strategy—scaled to your needs.</p>
+            </div>
+            <div class="card">
+                <h3>Project Management</h3>
+                <p>End‑to‑end project execution with proven methodologies, risk mitigation, and KPI tracking.</p>
+            </div>
+        </div>
+        <a href="services.html" class="btn">Learn More</a>
+    </section>
+
+    <section id="contact" class="section contact">
+        <h2>Get in Touch</h2>
+        <form id="contactForm" novalidate>
+            <div class="form-group">
+                <label for="name">Name*</label>
+                <input type="text" id="name" name="name" required>
+                <small class="error"></small>
+            </div>
+            <div class="form-group">
+                <label for="email">Email*</label>
+                <input type="email" id="email" name="email" required>
+                <small class="error"></small>
+            </div>
+            <div class="form-group">
+                <label for="subject">Subject*</label>
+                <input type="text" id="subject" name="subject" required>
+                <small class="error"></small>
+            </div>
+            <div class="form-group">
+                <label for="message">Message*</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+                <small class="error"></small>
+            </div>
+            <button type="submit" class="btn">Send Message</button>
+        </form>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 Business Butter. All rights reserved.</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
