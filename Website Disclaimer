@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Butter – Website Disclaimer</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <a href="index.html" class="logo"><img src="images/logo.png" alt="Business Butter Logo"></a>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="tos.html">Terms of Service</a></li>
+        </ul>
+        <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+    </nav>
+</header>
+
+<main class="section">
+    <h1>Website Disclaimer</h1>
+    <section class="article">
+        <p>Last Updated: [1/2/2026]
+
+The information provided on this website is for general informational purposes only. By accessing or using this website, you acknowledge and agree to the terms of this Disclaimer.
+
+1. No Professional Advice
+
+Business Butter LLC (“Business Butter,” “we,” “us,” or “our”) provides business counseling, advising, project management, and fractional CFO services.
+
+Nothing on this website constitutes or should be interpreted as:
+
+Legal advice
+
+Tax advice
+
+Accounting advice
+
+Investment advice
+
+Financial planning advice
+
+Lending, brokerage, or banking services
+
+Business Butter LLC is not a law firm, accounting firm, bank, lender, broker-dealer, or registered investment advisor.
+
+You should consult licensed professionals (such as an attorney, CPA, or financial advisor) regarding your specific situation before making business, financial, or legal decisions.
+
+2. No Guarantees or Assurances
+
+Any references on this website to:
+
+Funding opportunities
+
+Loans, grants, or financing
+
+Business growth, profitability, or performance
+
+Strategic outcomes or projections
+
+are provided for illustrative or informational purposes only.
+
+Business Butter LLC makes no guarantees or assurances regarding outcomes, approvals, timelines, funding decisions, or business success. Results depend on numerous factors beyond our control, including third-party decisions, market conditions, and the accuracy of information provided by clients.
+
+3. Accuracy and Completeness of Information
+
+While we make reasonable efforts to keep website content accurate and up to date, laws, regulations, lender policies, and market conditions change frequently.
+
+We make no representations or warranties that:
+
+Website content is complete, current, or error-free
+
+Information will remain applicable to your circumstances
+
+External data or third-party information is accurate
+
+Use of this website is at your own risk.
+
+4. No Client Relationship Formed
+
+Use of this website, submission of contact forms, or receipt of information does not create a client, advisory, fiduciary, or professional relationship with Business Butter LLC.
+
+A formal client relationship is established only through a separate written agreement signed by both parties.
+
+5. Third-Party Links and Tools
+
+This website may contain links to third-party websites, platforms, calculators, forms, or tools for convenience or informational purposes.
+
+Business Butter LLC does not control, endorse, or assume responsibility for:
+
+Third-party content or accuracy
+
+Privacy practices of external websites
+
+Availability or performance of third-party tools
+
+Accessing third-party resources is done at your own discretion and risk.
+
+6. Limitation of Liability
+
+To the fullest extent permitted by law, Business Butter LLC disclaims liability for any losses or damages arising from:
+
+Reliance on website content
+
+Use or inability to use the website
+
+Errors, omissions, or outdated information
+
+Third-party services or links
+
+This includes, without limitation, direct, indirect, incidental, consequential, or punitive damages.
+
+7. Changes to This Disclaimer
+
+We reserve the right to modify this Disclaimer at any time. Changes will be posted on this page with an updated “Last Updated” date. Continued use of the website constitutes acceptance of any revisions.
+
+8. Contact Information
+
+If you have questions regarding this Disclaimer, contact:
+
+Business Butter LLC
+8401 Mayland Dr #6651
+Richmond, VA 23294
+United States
+
+Email: Info@BusinessButter.com
+
+Phone: (571) 628-3628</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 Business Butter. All rights reserved.</p>
+    <p><a href="tos.html">Terms of Service</a> | <a href="privacy.html">Privacy Policy</a></p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
