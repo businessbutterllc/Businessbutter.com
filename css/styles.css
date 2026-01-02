@@ -2,9 +2,9 @@
   Global
 --------------------------------------------------*/
 :root {
-    --primary: #0F52BA;   /* sapphire */
+    --primary: ;   #FFDD00/* sapphire */
     --secondary: #4a4a4a;
-    --accent:#FFDD00;    /*  */
+    --accent:#0F52BA;    /*  */
     --bg: #f9f9f9;
     --white: #ffffff;
     --black: #000000;
