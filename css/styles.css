@@ -3,9 +3,9 @@
 --------------------------------------------------*/
 :root {
     --primary: ;   #FFDD00/* sapphire */
-    --secondary: #4a4a4a;
+    --secondary: #CCCCFF;
     --accent:#0F52BA;    /*  */
-    --bg: #0F52BA;
+    --bg: #f9f9f9;
     --white: #ffffff;
     --black: #000000;
     --max-width: 1200px;
