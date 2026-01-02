@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Butter – Contact</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+        <a href="index.html#about" class="logo"><img src="images/logo.png" alt="Business Butter Logo"></a>
+        <ul class="nav-links">
+            <li><a href="index.html#about">About</a></li>
+            <li><a href="index.html#services">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+        <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+    </nav>
+</header>
+
+<main>
+    <section class="section contact">
+        <h2>Contact Us</h2>
+        <form id="contactForm" novalidate>
+            <div class="form-group">
+                <label for="name">Name*</label>
+                <input type="text" id="name" name="name" required>
+                <small class="error"></small>
+            </div>
+            <div class="form-group">
+                <label for="email">Email*</label>
+                <input type="email" id="email" name="email" required>
+                <small class="error"></small>
+            </div>
+            <div class="form-group">
+                <label for="subject">Subject*</label>
+                <input type="text" id="subject" name="subject" required>
+                <small class="error"></small>
+            </div>
+            <div class="form-group">
+                <label for="message">Message*</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+                <small class="error"></small>
+            </div>
+            <button type="submit" class="btn">Send Message</button>
+        </form>
+    </section>
+
+    <section class="section">
+        <h3>Our Office</h3>
+        <p>123 Butter Lane<br>Suite 200<br>Capital City, ST 12345</p>
+        <p>Phone: (555) 123‑4567<br>Email: <a href="mailto:info@businessbutter.com">info@businessbutter.com</a></p>
+        <p class="center"><a href="index.html#contact" class="btn">Return Home</a></p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 Business Butter. All rights reserved.</p>
+</footer>
+
+<script src="js/script.js"></script>
+</body>
+</html>
