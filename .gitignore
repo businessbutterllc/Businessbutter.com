@@ -1,0 +1,10 @@
+# Ignore node modules if you ever add npm packages
+node_modules/
+
+# GitHub Pages build output
+docs/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
